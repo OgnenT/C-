@@ -1,0 +1,31 @@
+using System;
+
+namespace OgnenApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.ForegroundColor = ConsoleColor.Black;
+
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.WriteLine("STOP ");
+
+            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("READY ");
+
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.WriteLine("GO ");
+
+
+            Console.ResetColor();
+            Console.WriteLine("List of available " + "Console Colors:");
+            ConsoleColor[] colorList = (ConsoleColor[])ConsoleColor.GetValues(typeof(ConsoleColor));
+
+            foreach (var color in colorList)
+                Console.WriteLine(color);
+
+            Console.ReadLine();
+        }
+    }
+}
