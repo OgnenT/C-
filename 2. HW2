@@ -1,0 +1,73 @@
+using System;
+
+namespace HomeWork_2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            // Exercise 01 //
+
+            string str1;
+            string str2;
+            str1 = "We ";
+            str2 = "are";
+            var twoStr = (str1 + str2);
+
+            string str3 = "9";
+            string str4 = "3";
+
+            var allConcatenate = (twoStr + " " + str3 + str4);
+
+            Console.WriteLine(allConcatenate);
+
+
+
+            // Exercise 02 //
+
+            int num1 = 23;
+            string str5 = "Michael Jordan ";
+            var bouthConcat = str5 + num1;
+
+            Console.WriteLine(bouthConcat);
+
+
+
+            // Exercise 03 //
+
+            int nCredits = 102;
+            int mCredits = 5;
+
+            int spend = nCredits / mCredits;
+            int rest = nCredits - spend * mCredits;
+
+            Console.WriteLine("You have " + rest + " credits left");
+
+
+
+            // Exercise 04 //
+
+            Console.WriteLine("Please insert number");
+            var input = Console.ReadLine();
+
+            int number;
+            bool convert = int.TryParse(input, out number);
+            if (convert == true && number % 2 == 0)
+            {
+                Console.WriteLine("The number is Even");
+            }
+            else if (convert == true && number % 2 != 0)
+            {
+                Console.WriteLine("The number is Odd");
+            }
+            else
+            {
+                Console.WriteLine("Invalid input - please insert number!");
+            }
+
+
+            Console.ReadLine();
+         }
+    }
+}
