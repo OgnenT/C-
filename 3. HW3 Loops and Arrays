@@ -1,0 +1,54 @@
+using System;
+
+namespace HomeWork_03
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Homework Class 3 
+            #region Task 1
+            //int[] intArr = new int[6];
+            //for (int i = 0; i < intArr.Length; i++)
+            //    intArr[i] = int.Parse(Console.ReadLine());
+
+            //int sum = 0;
+            //foreach (var item in intArr)
+            //    if (item % 2 == 0)
+            //        sum += item;
+
+            //Console.WriteLine("The Sum is: {0}", sum);
+            //Console.Write("-------------------\n");
+            #endregion
+
+
+            #region Task 2
+            string[] studentsG1 = new string[] { "Ognen", "Martin", "Nenad", "Darko", "Bojan" };
+            string[] studentsG2 = { "Zdravko", "Petko", "Stanko", "Branko", "Trajko" };
+
+            Console.WriteLine("Please insert number 1 or 2");
+            int group;
+            bool groupCheck = int.TryParse(Console.ReadLine(), out group);
+            if (groupCheck)
+                if (group == 1)
+                {
+                    Console.WriteLine("The Students in G1 are:");
+                    foreach (var name in studentsG1)
+                        Console.WriteLine(name);
+                }
+                else if (group == 2)
+                {
+                    Console.WriteLine("The Students in G2 are:");
+                    foreach (var name in studentsG2)
+                        Console.WriteLine(name);
+                }
+                else
+                    Console.WriteLine("Please insert number 1 or 2");
+            else
+                Console.WriteLine("Please insert number 1 or 2");
+            #endregion
+
+            Console.ReadLine();
+        }
+    }
+}
