@@ -54,7 +54,7 @@ namespace HW_03
             Console.WriteLine("Please insert the size of your array?");
             var size = Convert.ToInt32(Console.ReadLine());
             string[] names = new string[size];
-
+            int index = 0;
 
             while (true)
             {
@@ -62,18 +62,13 @@ namespace HW_03
                 string inputYesNo = Console.ReadLine().ToLower();
                 if (inputYesNo == "y")
                 {
-                    for (int i = 0; i < names.Length; i++)
-                    {
-                        Console.Write("Please Insert name:");
-                        names[i] += Console.ReadLine();
-                        break;
-                    }
+                    Console.Write("Please Insert name: ");
+                    names[index] = Console.ReadLine();
+                    index++;
                 }
 
-                if (inputYesNo == "n")
-                {
-                    break;
-                }
+                if (inputYesNo == "n") break;
+                if (index == size) break;
             }
 
             for (int i = 0; i < names.Length; i++)
