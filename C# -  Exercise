@@ -1,0 +1,400 @@
+using System;
+
+namespace GLUPOSTI_2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region Takes four numbers as input to calculate and print the average.
+            //Console.WriteLine("Please enter 4 numbers from (1-10):");
+            //int num1 = int.Parse(Console.ReadLine());
+            //int num2 = int.Parse(Console.ReadLine());
+            //int num3 = int.Parse(Console.ReadLine());
+            //int num4 = int.Parse(Console.ReadLine());
+
+
+            //var res = (num1 + num2 + num3 + num4) / 4;
+            //Console.WriteLine(res);
+            //Console.WriteLine("Avarage from this 4 numbers {0}, {1}, {2} & {3} is: {4}", num1, num2, num3, num4, res);
+
+            //Console.ReadLine();
+            #endregion
+
+
+            #region Multiplication of three numbers which will be entered by the user.
+            //Console.WriteLine("Please insert three numbers (x,y,z):");
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+            //int num3 = Convert.ToInt32(Console.ReadLine());
+
+            //int res1 = (num1 + num2) * num3;
+            //int res2 = (num1 * num2) + (num2 * num3);
+            //Console.WriteLine($"Result of specified numbers {num1}, {num2} and {num3}, (x+y)*z is {res1} and x*y + y*z is {res2}");
+            //Console.ReadLine();
+            #endregion
+
+
+            #region Convert from celsius degrees to Kelvin and Fahrenheit
+            //Console.Write("Enter the amount of celsius: ");
+            //int celsius = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Kelvin = {0}", celsius + 273);
+            //Console.WriteLine("Fahrenheit = {0}", celsius * 18 / 10 + 32);
+            #endregion
+
+
+            #region Adding, subtracting, multiplying and dividing of two numbers
+            //Console.WriteLine("Insert \n two numbers: ");
+            //int num1 = int.Parse(Console.ReadLine());
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine($"{num1} + {num2} = {num1 + num2}");
+            ////            Console.WriteLine("{0} + {1} = {2}", num1, num2, num1 + num2);
+
+            //Console.WriteLine("{0} - {1} = {2}", num1, num2, num1 - num2);
+            //int res = num1 * num2;
+            //Console.WriteLine($"{num1} * {num2} = {res}");
+
+            //int res1 = num1 / num2;
+            //int mode = num1 % num2;
+            //Console.WriteLine("{0} / {1} = {2}", num1, num2, res1);
+            //Console.WriteLine("{0} % {1} = {2}", num1, num2, mode);
+            #endregion
+
+
+            #region Takes an age (for example 20) as input and prints something as "You look older than 20". 
+            //int inputYears = Convert.ToInt32(Console.ReadLine());
+
+            //if (inputYears >= 20 && inputYears <= 30)
+            //{
+            //    Console.WriteLine("You look older than 20!");
+
+            //}
+            //else if (inputYears >= 30 && inputYears <= 50)
+            //{
+            //    Console.WriteLine("YOU ARE OLD ENOGH");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Go to other page");
+            //}
+            #endregion
+
+
+            #region Takes a number as input and display it four times in a row (separated by blank spaces), and then four times in the next row, with no separation.
+            //Console.WriteLine("Enter a digit: ");
+            //int num = Convert.ToInt32(Console.ReadLine());
+
+            //Console.Write(num);
+            //Console.Write(", ");
+            //Console.Write(num);
+            //Console.Write(", ");
+            //Console.Write(num);
+            //Console.Write(", ");
+            //Console.Write(num);
+            //Console.WriteLine();
+
+            //// Part B: "numnumnumnum" using Write
+            //Console.Write(num);
+            //Console.Write(num);
+            //Console.Write(num);
+            //Console.WriteLine(num);
+            //Console.WriteLine();
+
+            //// Part C: "num num num num" using {0}
+            //Console.WriteLine("{0} {0} {0} {0}", num);
+
+            //// Part D: "numnumnumnum" using {0}
+            //Console.WriteLine("{0}{0}{0}{0}", num);
+            #endregion
+
+
+            #region Accept two integers and check whether they are equal or not.
+            //Console.Write("Plese insert two numbers: ");
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+
+            //if (num1 == num2)
+            //{
+            //    Console.WriteLine("Numbers {0} and {1} are equal", num1, num2);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("This two numbers are not equal!");
+            //}
+            #endregion
+
+            #region Check whether a given number is even or odd.
+            //Console.WriteLine("Please insert number!");
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+            //if (num1 % 2 == 0)
+            //{
+            //    Console.WriteLine("Number {0} is EVEN!", num1);
+            //}
+            //else
+            //{
+            //    Console.WriteLine($"Number {num1} is ODD!");
+            //}
+            #endregion
+
+
+            #region Check whether a given number is positive or negative.
+            //Console.WriteLine("Insert number");
+            //var num1 = Console.ReadLine();
+
+            //int newNum;
+            //bool conversion = int.TryParse(num1, out newNum);
+            //if (conversion == true && newNum > 0)
+            //{
+            //    Console.WriteLine($"Number {newNum} is positive!");
+            //}
+            //else if (conversion == true && newNum < 0)
+            //{
+            //    Console.WriteLine("Number {0} is negative", newNum);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Please insert number");
+            //}
+            #endregion
+
+
+            #region Exam points for score from 1 to 5
+            //Console.WriteLine("Please enter your exam score (number from 1 - 5):");
+
+            //int score = 0;
+            //bool validInput = int.TryParse(Console.ReadLine(), out score);
+
+            //if (validInput && score > 0 && score <= 5)
+            //{
+            //    Console.ForegroundColor = ConsoleColor.Blue;
+            //    Console.WriteLine("Valid input, please read your result details:");
+            //    Console.ResetColor();
+
+            //    // Using SWITCH branching in C#
+            //    switch (score)
+            //    {
+            //        case 1:
+            //            Console.ForegroundColor = ConsoleColor.Red;
+            //            Console.WriteLine("Sorry, you got 1 to 20 points and failed the exam. :(");
+            //            break;
+            //        case 2:
+            //            Console.ForegroundColor = ConsoleColor.Red;
+            //            Console.WriteLine("Sorry, you got 20 to 40 points and failed the exam. :(");
+            //            break;
+            //        case 3:
+            //            Console.ForegroundColor = ConsoleColor.Green;
+            //            Console.WriteLine("Great, you got 40 to 60 points and passed the exam. :)");
+            //            break;
+            //        case 4:
+            //            Console.ForegroundColor = ConsoleColor.Green;
+            //            Console.WriteLine("Excellent, you got 60 to 80 points and passed the exam. :))");
+            //            break;
+            //        case 5:
+            //            Console.ForegroundColor = ConsoleColor.Green;
+            //            Console.WriteLine("Fantastic, you got 80 to 100 points and passed the exam. :)))");
+            //            break;
+            //        default:
+            //            Console.ForegroundColor = ConsoleColor.Yellow;
+            //            Console.WriteLine("You have entered number bigger than the maximum allowed, please try again.");
+            //            break;
+            //    }
+            //}
+            //else if (validInput && score < 0)
+            //{
+            //    Console.ForegroundColor = ConsoleColor.Yellow;
+            //    Console.WriteLine("The points cannot be negative, close the program and try again.");
+            //}
+            //else
+            //{
+            //    Console.ForegroundColor = ConsoleColor.Yellow;
+            //    Console.WriteLine("Invalid input, close the program and try again.");
+            //}
+            #endregion
+
+
+            #region Check whether a given year is leap year or not.
+            //var year = Console.ReadLine();
+
+            //int newYear;
+            //bool checkYear = int.TryParse(year, out newYear);
+            //if (checkYear)
+            //{
+            //    if (newYear % 4 == 0)
+            //    {
+            //        Console.WriteLine("The year {0} is leap", newYear);
+            //    }
+            //    else if (newYear % 400 == 0)
+            //    {
+            //        Console.WriteLine("The year {0} is leap again", newYear);
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Year is not LEAP");
+            //    }
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Insert valid number");
+            //}
+            #endregion
+
+
+            #region Read the age of a candidate and determine whether it is eligible for casting his/her own vote.
+
+            //Console.WriteLine("How old are you?");
+            //int yearsOld = Convert.ToInt32(Console.ReadLine());
+            //if (yearsOld > 18)
+            //{
+            //    Console.WriteLine("You are eligible for casting your vote.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("You are too young!");
+            //    Console.WriteLine("You will beabale to cast vote after {0} years", 18-yearsOld);
+            //}
+
+            #endregion
+
+
+            #region Read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0.
+
+            //int m = Convert.ToInt32(Console.ReadLine());
+            //int n;
+
+            //if (m > 0)
+            //{
+            //    if (m != 0)
+            //        Console.WriteLine("The num {0} will be: {1}", m, n = 1);
+            //}
+            //else if (m < 0)
+            //{
+            //    Console.WriteLine("The num {0} will be: {1}", m, n = -1);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("The num {0} will be: {1}", m, n = 0);
+            //}
+
+            #endregion
+
+
+            #region  Accept the height of a person in centimeter and categorize the person according to their height.
+            //Console.WriteLine("Input height?");
+            //int height = Convert.ToInt32(Console.ReadLine());
+
+            //if (height > 185)
+            //    Console.WriteLine("You are tall enogh.");
+            //else if (height > 165 && height < 185)
+            //    Console.WriteLine("The person is tall.");
+            //else if (height > 135 && height < 165)
+            //    Console.WriteLine("The person is medium tall.");
+            //else
+            //    Console.WriteLine("The person is Dwarf.");
+            #endregion
+
+            #region Find the largest of three numbers.
+            //Console.WriteLine("Input three numbers:");
+            //int first = int.Parse(Console.ReadLine());
+            //int second = int.Parse(Console.ReadLine());
+            //int third = int.Parse(Console.ReadLine());
+
+            //if (first > second && first > third)
+            //    Console.WriteLine($"{first} is greater among {second} & {third}");
+            //else if (second > first && second > third)
+            //    Console.WriteLine($"{second} is greater among {first} & {third}");
+            //else
+            //    Console.WriteLine($"{third} is greater among {first} & {second}");
+            #endregion
+
+
+            #region Coordinate point in an XY coordinate system and determine in which quadrant the coordinate point lies.
+            //Console.WriteLine("Insert two coordinates (x,y):");
+            //int xcoord = Convert.ToInt32(Console.ReadLine());
+            //int ycoord = Convert.ToInt32(Console.ReadLine());
+
+            //if (xcoord > 0 && ycoord > 0)
+            //    Console.WriteLine("The coordinate point ({0},{1}) lies in the First quadrant.", xcoord, ycoord);
+            //else if (xcoord < 0 && ycoord > 0)
+            //    Console.WriteLine("The coordinate point ({0},{1}) lies in the Second quadrant.", xcoord, ycoord);
+            //else if (xcoord < 0 && ycoord < 0)
+            //    Console.WriteLine("The coordinate point ({0},{1}) lies in the Third quadrant.", xcoord, ycoord);
+            //else
+            //    Console.WriteLine("The coordinate point ({0},{1}) lies in the Forth quadrant.", xcoord, ycoord);
+            #endregion
+
+            #region Find the eligibility of admission for a professional course based on the following criteria: Maths >=65, Phy >= 55, Chem >= 50, Total >= 180, or Total in Math and Subjects >= 140
+            //Console.WriteLine("Insert you three points:");
+            //int mathsPoints;
+            //bool check = int.TryParse(Console.ReadLine(), out mathsPoints);
+            //int phyPoints = int.Parse(Console.ReadLine());
+            //int chemPoints = int.Parse(Console.ReadLine());
+
+            //if (mathsPoints > 65)
+            //    if (phyPoints > 55)
+            //        if (chemPoints > 50)
+            //            if (mathsPoints + phyPoints + chemPoints > 180)
+            //                Console.WriteLine("The candidate is eligible for admission.");
+            //            else if (mathsPoints + phyPoints > 140)
+            //                Console.WriteLine("The candidate is eligible for admission.");
+            //            else
+            //                Console.WriteLine("The candidate is NOT eligible for admission!!!");
+            //        else
+            //            Console.WriteLine("The candidate is NOT eligible for admission!!!");
+            //    else
+            //        Console.WriteLine("The candidate is NOT eligible for admission!!!");
+            //else
+            //    Console.WriteLine("The candidate is NOT eligible for admission!!!");
+            #endregion
+
+            #region Accept a temperature in centigrade and display a suitable message:
+            //Console.Write("Input days temperature: ");
+            //int temp = Convert.ToInt32(Console.ReadLine());
+            //if (temp > 0 && temp < 10)
+            //    Console.WriteLine("Very Cold weather");
+            //if (temp > 10 && temp < 20)
+            //    Console.WriteLine("Cold weather");
+            //if (temp > 20 && temp < 30)
+            //    Console.WriteLine("Normal Temp");
+            //else
+            //    Console.Write("Dont go out!");
+            #endregion
+
+            #region Vowels checker
+            Console.Write("Input an Alphabet (A-Z or a-z) : ");
+            char ch = Convert.ToChar(Console.ReadLine().ToLower());
+            bool checker = Char.IsLetter(ch);
+            if (checker != true)
+                Console.WriteLine("Please insert Character!");
+            else
+            {
+                switch (ch)
+                {
+                    case 'a':
+                        Console.WriteLine("The Alphabet is vowel");
+                        break;
+                    case 'i':
+                        Console.WriteLine("The Alphabet is vowel");
+                        break;
+                    case 'o':
+                        Console.WriteLine("The Alphabet is vowel");
+                        break;
+                    case 'u':
+                        Console.WriteLine("The Alphabet is vowel");
+                        break;
+                    case 'e':
+                        Console.WriteLine("The Alphabet is vowel");
+                        break;
+                    default:
+                        Console.WriteLine("The Alphabet is not a vowel");
+                        break;
+                }
+            }
+            #endregion
+
+            Console.ReadLine();
+
+        }
+    }
+}
