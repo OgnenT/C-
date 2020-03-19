@@ -1,0 +1,122 @@
+using System;
+
+namespace _7zadaci
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region 6. Write a program in C# Sharp to read any Day Number in integer (from 1 to 7) and display on screen the day with strings. Example: user enters 1, you should print Monday.
+
+            //int index = 0;
+            //while (index < 7)
+            //{
+            //    Console.WriteLine("Insert number (1 - 7)");
+            //    int day;
+            //    bool input = int.TryParse(Console.ReadLine(), out day);						
+
+            //    if (!input)
+            //    {
+            //        Console.WriteLine("Please choose number from 1 to 7!!!");
+            //        continue;
+            //    }
+            //    switch (day)
+            //    {
+            //        case 1:
+            //            Console.WriteLine("Monday");
+            //            break;
+
+            //        case 2:
+            //            Console.WriteLine("Tuesday");
+            //            break;
+            //        case 3:
+            //            Console.WriteLine("Wednesday");
+            //            break;
+            //        case 4:
+            //            Console.WriteLine("Thursday");
+            //            break;
+            //        case 5:
+            //            Console.WriteLine("Friday");
+            //            break;
+            //        case 6:
+            //            Console.WriteLine("Saturday");
+            //            break;
+            //        case 7:
+            //            Console.WriteLine("Sunday");
+            //            break;
+            //        default:
+            //            break;
+            //    }
+            //    index++;
+            //}
+            #endregion
+
+
+            #region 7. User Login 
+            string[] userNames = { "user1", "user2", "user3" };
+            string[] passwords = { "first", "second", "third" };
+
+
+            while (true)
+            {
+                Console.WriteLine("Please insert Username");
+                string inputUser = Console.ReadLine();
+                if (inputUser == userNames[0])
+                {
+                    while (true)
+                    {
+                        Console.WriteLine("Please insert Password");
+                        string inputPass = Console.ReadLine();
+                        if (inputPass == passwords[0])
+                        {
+                            Console.WriteLine("You are logged in successfully");
+                            break;
+                        }
+                        else
+                            Console.WriteLine("INCORRECT pass");
+                    }
+                    break;
+                }
+                else if (inputUser == userNames[1])
+                {
+                    while (true)
+                    {
+                        Console.WriteLine("Please insert Password");
+                        string inputPass1 = Console.ReadLine();
+                        if (inputPass1 == passwords[1])
+                        {
+                            Console.WriteLine("You are logged in successfully");
+                            break;
+                        }
+                        else
+                            Console.WriteLine("INCORRECT pass");
+                    }
+                    break;
+                }
+                else if (inputUser == userNames[2])
+                {
+                    while (true)
+                    {
+                        Console.WriteLine("Please insert Password");
+                        string inputPass2 = Console.ReadLine();
+                        if (inputPass2 == passwords[2])
+                        {
+                            Console.WriteLine("You are logged in successfully");
+                            break;
+                        }
+                        else
+                            Console.WriteLine("INCORRECT pass");
+                    }
+                    break;
+                }
+                else
+                    Console.WriteLine("INCORRECT User");
+            }
+
+            Console.ReadLine();
+            //////////////////////////////////////////////////
+
+            #endregion
+        }
+    }
+}
