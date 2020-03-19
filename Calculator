@@ -1,12 +1,11 @@
 using System;
 
-namespace Calculator
+namespace Calculator_C_sharp
 {
     class Program
     {
         static void Main(string[] args)
         {
-
             while (true)
             {
                 Console.WriteLine("Please insert one of the following (+, -, *, /)");
@@ -159,10 +158,7 @@ namespace Calculator
                     if (stop == 's')
                     {
                         Console.WriteLine("Thank you for using our APP");
-                        break;
                     }
-                    else
-                    continue;
                 }
             }
         }
