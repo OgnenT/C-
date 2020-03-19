@@ -6,6 +6,104 @@ namespace _7zadaci
     {
         static void Main(string[] args)
         {
+        
+         #region 1 Write a C# Sharp program to find the sum of first 10 natural numbers.
+            //int sum = 0;
+            //for (int i = 0; i <= 10; i++)
+            //{
+            //    sum += i;
+            //}
+            //Console.WriteLine("The Sum is: " + sum);
+            #endregion
+
+
+            #region 2. Write a program in C# Sharp to read 10 numbers from keyboard and find their sum and average.
+            //int sum = 0;
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    int input = Convert.ToInt32(Console.ReadLine());
+            //    sum += input;
+            //}
+            //Console.WriteLine("The Sum is: " + sum);
+            //Console.WriteLine("The Average is: " + sum / 10);
+            #endregion
+
+
+            #region 3. Declare and init array of 10 integers by your choise. 
+            //int[] arr = new int[10] { 2, 10, 15, 20, 25, 30, 35, 440, 37, 19 };
+            //int max = Int32.MinValue;
+            //int min = Int32.MaxValue;
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    int value = arr[i];
+            //    if (value > max)
+            //        max = value;
+            //    if (value < min)
+            //        min = value;
+            //}
+
+            //int maxIndex = Array.IndexOf(arr, max);
+            //int minIndex = Array.IndexOf(arr, min);
+
+            //Console.WriteLine("The max num is: " + max + " on index number: " + maxIndex);
+            //Console.WriteLine("The min num is: " + min + " on index number: " + minIndex);
+            #endregion
+
+
+            #region 4. Count a total number of duplicate elements in arrayWithDuplicates
+
+            //int[] arrayWithDuplicates = new int[] { 1, 4, 6, 3, 4, 5, 9, 3, 2, 9 };
+            //int i, j;
+
+            //Console.Write("Repeated Elements are: ");
+            //for (i = 0; i < arrayWithDuplicates.Length; i++)
+            //{
+            //    for (j = i + 1; j < arrayWithDuplicates.Length; j++)
+            //    {
+            //        if (arrayWithDuplicates[i] == arrayWithDuplicates[j])
+            //            Console.Write($"{arrayWithDuplicates[i]}, ");
+            //    }
+            //}
+
+            #endregion
+
+            #region 5. Separate odd and even integers from the oddEvenArray in separate arrays
+            //int[] oddEvenArray = { 10, 23, 44, 123, 55, 52, 98, 99, 102, 103, 152, 49 };
+            //int[] evenArr = { };
+            //int[] oddArr = { };
+
+            //for (int i = 0; i < oddEvenArray.Length; i++)
+            //{
+            //    if (oddEvenArray[i] % 2 == 0)
+            //    {
+            //        Array.Resize(ref evenArr, evenArr.Length + 1);
+            //        evenArr[evenArr.Length - 1] = oddEvenArray[i];
+            //    }
+            //    if (oddEvenArray[i] % 2 != 0)
+            //    {
+            //        Array.Resize(ref oddArr, oddArr.Length + 1);
+            //        oddArr[oddArr.Length - 1] = oddEvenArray[i];
+            //    }
+            //}
+
+            //Console.WriteLine("Even numbers:");
+            //foreach (var item in evenArr)
+            //{
+            //    Console.Write(item + ", ");
+            //}
+
+            //Console.WriteLine();
+
+            //Console.WriteLine("Odd numbers:");
+            //foreach (var item in oddArr)
+            //{
+            //    Console.Write(item + ", ");
+            //}
+            //Console.WriteLine();
+
+            #endregion
+            
+            
             #region 6. Write a program in C# Sharp to read any Day Number in integer (from 1 to 7) and display on screen the day with strings. Example: user enters 1, you should print Monday.
 
             //int index = 0;
