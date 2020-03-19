@@ -1,6 +1,7 @@
 using System;
 
-namespace GLUPOSTI_2
+namespace C# Sharp programming exercises
+
 {
     class Program
     {
