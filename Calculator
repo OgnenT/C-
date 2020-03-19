@@ -1,0 +1,170 @@
+using System;
+
+namespace Calculator
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            while (true)
+            {
+                Console.WriteLine("Please insert one of the following (+, -, *, /)");
+                char insertChar;
+                bool operation = char.TryParse(Console.ReadLine(), out insertChar);
+                if (insertChar == '+')
+                {
+                    Console.WriteLine("You choose " + insertChar);
+                    Console.WriteLine("Insert first Number");
+                    int firstNum;
+                    bool check = int.TryParse(Console.ReadLine(), out firstNum);
+                    if (!check)
+                    {
+                        Console.BackgroundColor = ConsoleColor.Red;
+                        Console.WriteLine("WRONG input, please start again");
+                        Console.ResetColor();
+                    }
+                    else
+                    {
+                        Console.WriteLine("Insert second Number");
+                        int secondNum;
+                        bool check1 = int.TryParse(Console.ReadLine(), out secondNum);
+                        if (!check1)
+                        {
+                            Console.BackgroundColor = ConsoleColor.Red;
+                            Console.WriteLine("WRONG input, please start again");
+                            Console.ResetColor();
+                        }
+                        else
+                        {
+                            Console.BackgroundColor = ConsoleColor.Green;
+                            Console.ForegroundColor = ConsoleColor.Black;
+                            Console.WriteLine("Your result is: " + (firstNum + secondNum));
+                            break;
+                        }
+                    }
+
+                }
+                else if (insertChar == '-')
+                {
+                    Console.WriteLine("You choose " + insertChar);
+                    Console.WriteLine("Insert first Number");
+                    int firstNum;
+                    bool check = int.TryParse(Console.ReadLine(), out firstNum);
+                    if (!check)
+                    {
+                        Console.BackgroundColor = ConsoleColor.Red;
+                        Console.WriteLine("WRONG input, please start again");
+                        Console.ResetColor();
+                    }
+                    else
+                    {
+                        Console.WriteLine("Insert second Number");
+                        int secondNum;
+                        bool check1 = int.TryParse(Console.ReadLine(), out secondNum);
+                        if (!check1)
+                        {
+                            Console.BackgroundColor = ConsoleColor.Red;
+                            Console.WriteLine("WRONG input, please start again");
+                            Console.ResetColor();
+                        }
+                        else
+                        {
+                            Console.BackgroundColor = ConsoleColor.Green;
+                            Console.ForegroundColor = ConsoleColor.Black;
+                            Console.WriteLine("Your result is: " + (firstNum - secondNum));
+                            break;
+                        }
+                    }
+                }
+                else if (insertChar == '*')
+                {
+                    Console.WriteLine("You choose " + insertChar);
+                    Console.WriteLine("Insert first Number");
+                    int firstNum;
+                    bool check = int.TryParse(Console.ReadLine(), out firstNum);
+                    if (!check)
+                    {
+                        Console.BackgroundColor = ConsoleColor.Red;
+                        Console.WriteLine("WRONG input, please start again");
+                        Console.ResetColor();
+                    }
+                    else
+                    {
+                        Console.WriteLine("Insert second Number");
+                        int secondNum;
+                        bool check1 = int.TryParse(Console.ReadLine(), out secondNum);
+                        if (!check1)
+                        {
+                            Console.BackgroundColor = ConsoleColor.Red;
+                            Console.WriteLine("WRONG input, please start again");
+                            Console.ResetColor();
+                        }
+                        else
+                        {
+                            Console.BackgroundColor = ConsoleColor.Green;
+                            Console.ForegroundColor = ConsoleColor.Black;
+                            Console.WriteLine("Your result is: " + (firstNum * secondNum));
+                            break;
+                        }
+                    }
+                }
+                else if (insertChar == '/')
+                {
+                    Console.WriteLine("You choose " + insertChar);
+                    Console.WriteLine("Insert first Number");
+                    int firstNum;
+                    bool check = int.TryParse(Console.ReadLine(), out firstNum);
+                    if (!check)
+                    {
+                        Console.BackgroundColor = ConsoleColor.Red;
+                        Console.WriteLine("WRONG input, please start again");
+                        Console.ResetColor();
+                    }
+                    else
+                    {
+                        Console.WriteLine("Insert second Number");
+                        int secondNum;
+                        bool check1 = int.TryParse(Console.ReadLine(), out secondNum);
+
+                        if (!check1)
+                        {
+                            Console.BackgroundColor = ConsoleColor.Red;
+                            Console.WriteLine("WRONG input, please start again");
+                            Console.ResetColor();
+                            continue;
+                        }
+                        if (secondNum == 0)
+                        {
+                            Console.BackgroundColor = ConsoleColor.Red;
+                            Console.WriteLine("Division with 0 is not possible");
+                            Console.ResetColor();
+                            continue;
+                        }
+                        else
+                        {
+                            Console.BackgroundColor = ConsoleColor.Green;
+                            Console.ForegroundColor = ConsoleColor.Black;
+                            Console.WriteLine("Your result is: " + (firstNum / secondNum));
+                            break;
+                        }
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("INVALID operation selected");
+                    Console.WriteLine("\n");
+                    Console.WriteLine("Please pres 'S' for starting new calculation");
+                    char stop = Convert.ToChar(Console.ReadLine().ToLower());
+                    if (stop == 's')
+                    {
+                        Console.WriteLine("Thank you for using our APP");
+                        break;
+                    }
+                    else
+                    continue;
+                }
+            }
+        }
+    }
+}
