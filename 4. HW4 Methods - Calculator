@@ -1,0 +1,79 @@
+using System;
+
+namespace Calculator_C_sharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please insert two numbers");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            int num2 = Convert.ToInt32(Console.ReadLine());
+
+
+            Console.WriteLine("Do you want to proceed with choosing the operation (YES/NO)");
+            string insert = Convert.ToString(Console.ReadLine().ToLower());
+
+            if (insert == "yes")
+            {
+                switch (OperationInput(insert))
+                {
+                    case '+':
+                        int oper = Adding(num1, num2);
+                        Console.WriteLine("Your equation is following: \n{0} + {1} = {2}", num1, num2, oper);
+                        break;
+                    case '-':
+                        int oper1 = Subtraction(num1, num2);
+                        Console.WriteLine("Your equation is following: \n{0} - {1} = {2}", num1, num2, oper1);
+                        break;
+                    case '/':
+                        if (num2 != 0)
+                        {
+                            int oper2 = Division(num1, num2);
+                            Console.WriteLine($"Your equation is following: \n {num1} / {num2} = {oper2}");
+                        }
+                        else
+                            Console.WriteLine(@"You can not divide with ""0""");
+                        break;
+                    case '*':
+                        int oper3 = Multiplication(num1, num2);
+                        Console.WriteLine($"Your equation is following: \n{num1} * {num2} = {oper3}");
+                        break;
+                    default:
+                        Console.WriteLine("Wrong operation input!");
+                        break;
+                }
+            }
+            else
+                Console.WriteLine("I can't help you!");
+        }
+
+
+
+        static public int Adding(int num1, int num2)
+        {
+            int res = num1 + num2;
+            return res;
+        }
+        static public int Subtraction(int num1, int num2)
+        {
+            return num1 - num2;
+        }
+        static public int Division(int num1, int num2)
+        {
+            return num1 / num2;
+        }
+        static public int Multiplication(int num1, int num2)
+        {
+            return num1 * num2;
+        }
+
+        static public char OperationInput(string answer)
+        {
+            Console.WriteLine("Please insert one of the following operations (+, -, *, /)");
+            char operationInput;
+            bool checkOperation = char.TryParse(Console.ReadLine(), out operationInput);
+            return operationInput;
+        }
+    }
+}
