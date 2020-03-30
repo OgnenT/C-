@@ -1,0 +1,189 @@
+using System;
+
+namespace HW_05
+{
+    #region Task 7 Pocetok *7
+
+    //public class Dog
+    //{
+    //    //OVde Pocnuva 7 zadaca i prodolzuva so *7 podole vo Task 7
+    //    public string Name;
+    //    public string Race;
+    //    public string Color;
+
+    //    public void Eat()
+    //    {
+    //        Console.WriteLine($"Your beautiful {Color}, {Race} {Name} is now eating.");
+    //    }
+    //    public void Play()
+    //    {
+    //        Console.WriteLine($"Your beautiful {Color}, {Race} {Name} is now playing!");
+    //    }
+    //    public void ChaseTail()
+    //    {
+    //        Console.WriteLine($"Your beautiful {Color}, {Race} {Name} is now chasing its tail.");
+    //    }
+    //}
+    #endregion
+
+    #region 8 Pocetok *8
+    //public class Human
+    //{
+    //    public string FirstName;
+    //    public string LastName;
+    //    public int Age;
+
+    //    public void GetPersonStats()
+    //    {
+    //        Console.WriteLine($"Your name is: {FirstName} {LastName} and you are {Age} years old");
+    //    }
+    //}
+    #endregion
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            #region Task 1 - Example: we love c# *Expected Output : #c evol ew
+
+            //string exapmple = "We love C#";
+            //char[] exapmpleArr = exapmple.ToCharArray();
+
+            //Array.Reverse(exapmpleArr);
+            //Console.WriteLine(exapmpleArr);
+
+            #endregion
+
+            #region Task 2 - Count the total number of words in a string entered by the user.
+
+            //Console.WriteLine("Enter a string");
+            //string input = Convert.ToString(Console.ReadLine());
+            //string[] separateWords = input.Split(" ");
+
+            //Console.WriteLine(@$"Your string ""{input}"" have {separateWords.Length} words");
+
+
+            #endregion
+
+            #region Task 3 - Count the total number of words in a string entered by the user.
+
+            //string inputString = "We want this situation with covid-19 to ends!";
+            //char[] charArr = inputString.ToCharArray();
+
+            //int counter = 0;
+            //for (int i = 0; i < charArr.Length; i++)
+            //    if (charArr[i] == 't')
+            //        counter++;
+
+
+            //Console.WriteLine("The highest frequency of character 't' appears number of times : {0}", counter);
+            //Console.ReadLine();
+            #endregion
+
+            #region Task 4 - Print the whole text after "," in the console. *Try to do that without counting the characters till "," by yourself
+            //string text = "The whole group of G1 loves C#, we are sure that with their deducation and passion they will be successfull programers soon!";
+            //string[] splitedText = text.Split(", ");
+
+            //Console.WriteLine(splitedText[1]);
+
+            #endregion
+
+            #region Task 5 - Display the Day properties
+            //        var today = DateTime.Now;
+
+            //        int presentYear = today.Year;
+            //        int presentMonth = today.Month;
+            //        int presentDay = today.Day;
+            //        int presentHour = today.Hour;
+            //        int presentMinute = today.Minute;
+            //        int presentSecond = today.Second;
+
+            //        Console.WriteLine($"Year = {presentYear}; \nMonth = {presentMonth}; \nday = {presentDay}; \nhour = {presentHour}; " +
+            //$"\nminute = {presentMinute}; \nsecond = {presentSecond}");
+
+            //        string dateFormat = today.ToString("MM/dd/yyyy");
+
+            //        Console.WriteLine("\n------------------------");
+            //        string dateFormatAnother = today.ToString("dddd, dd MMMM yyyy");
+            //        Console.WriteLine(@$"""{dateFormatAnother}""");
+            //        Console.WriteLine(dateFormat);
+            //        Console.WriteLine("-----------");
+            //        string parseToday = "03/30/2020 19:30:00";
+            //        var parsed = DateTime.Parse(parseToday);
+            //        Console.WriteLine(parsed);
+            //        Console.ReadLine();
+            #endregion
+
+            #region Task 6 - Find the leap years between 2008 and 2020.
+
+            //for (int year = 2008; year <= 2020; year++)
+            //{
+            //    if (DateTime.IsLeapYear(year))
+            //    {
+            //        Console.WriteLine($"{year} is a leap year.");
+            //    }
+            //}
+
+            #endregion
+
+            #region Task 7 - Create a class Dog
+            ////Ovde prodolzuva sedmata zadaca kaj sto ima zvezdicka *7
+            //Dog firstDog = new Dog();
+
+            //Console.WriteLine("What your dogs name:");
+            //string inputName = Convert.ToString(Console.ReadLine());
+            //firstDog.Name = inputName;
+
+            //Console.WriteLine("Which race is your dog:");
+            //string inputRace = Convert.ToString(Console.ReadLine());
+            //firstDog.Race = inputRace;
+
+            //Console.WriteLine("What color is it:");
+            //string inputColor = Convert.ToString(Console.ReadLine());
+            //firstDog.Color = inputColor;
+
+            //Console.WriteLine("Choose action for your pet: \n 1 > eating \n 2 > playing \n 3 > chasing tail");
+            //int inputAction = Int32.Parse(Console.ReadLine());
+
+            //switch (inputAction)
+            //{
+            //    case 1:
+            //        firstDog.Eat();
+            //        break;
+            //    case 2:
+            //        firstDog.Play();
+            //        break;
+            //    case 3:
+            //        firstDog.ChaseTail();
+            //        break;
+            //    default:
+            //        Console.WriteLine("Dead DOG");
+            //        break;
+            //}
+
+            //Console.ReadLine();
+            #endregion
+
+            #region Task 8 - Create a class Human
+            ////Ovde prodolzuva sedmata zadaca kaj sto ima zvezdicka *8
+            //Human user = new Human();
+
+            //Console.WriteLine("Input your first name.");
+            //string inputFName = Convert.ToString(Console.ReadLine());
+            //user.FirstName = inputFName;
+
+            //Console.WriteLine("Input your last last name.");
+            //string inputLName = Convert.ToString(Console.ReadLine());
+            //user.LastName = inputLName;
+
+            //Console.WriteLine("Input your age");
+            //int inputAge = Convert.ToInt32(Console.ReadLine());
+            //user.Age = inputAge;
+
+            //user.GetPersonStats();
+            #endregion
+
+        }
+    }
+}
