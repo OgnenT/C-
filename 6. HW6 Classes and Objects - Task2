@@ -1,0 +1,84 @@
+using System;
+
+namespace Task2
+{
+    public enum Grades
+    {
+        Grade5 = 5,
+        Grade6,
+        Grade7,
+        Grade8,
+        Grade9,
+        Grade10
+    }
+
+    public class FirstCourse
+    {
+        public string CourseName;
+        public Grades Grade;
+
+        public FirstCourse(string courseName, Grades grade)
+        {
+            CourseName = courseName;
+            Grade = grade;
+        }
+
+
+        public bool Passed()
+        {
+            if (Grade == Grades.Grade5)
+                return false;
+            else
+                return true;
+        }
+    }
+
+    public class SecondCourse
+    {
+        public string CourseName;
+        public Grades Grade;
+
+        public SecondCourse(string courseName, Grades grade)
+        {
+            CourseName = courseName;
+            Grade = grade;
+        }
+        public bool Passed()
+        {
+            if (Grade == Grades.Grade5)
+                return false;
+            else
+                return true;
+        }
+    }
+
+    public class Project
+    {
+        public void PassedAll(bool first, bool second, bool third, bool fourth)
+        {
+            if (!first || !second || !third || !fourth)
+            {
+                Console.WriteLine("You Fail the Project");
+            }
+            else
+                Console.WriteLine("You Pass the Project");
+        }
+    }
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            FirstCourse first1 = new FirstCourse("HTML", Grades.Grade8);
+            FirstCourse first2 = new FirstCourse("CSS", Grades.Grade7);
+            SecondCourse second1 = new SecondCourse("JavaScript", Grades.Grade9);
+            SecondCourse second2 = new SecondCourse("C-Sharp", Grades.Grade10);
+
+            Project proba = new Project();
+            proba.PassedAll(first1.Passed(), first2.Passed(), second1.Passed(), second2.Passed());
+
+            Console.ReadLine();
+        }
+    }
+}
