@@ -1,0 +1,61 @@
+using System;
+
+namespace Classes_Constructors
+{
+    public class PhotoAlbum
+    {
+        public PhotoAlbum()
+        {
+            NumberOfPages = 16;
+        }
+
+        private int NumberOfPages;
+
+        public PhotoAlbum(int numberOfPages)
+        {
+            NumberOfPages = numberOfPages;
+        }
+
+
+        public void GetNumbersOfPages()
+
+        {
+            Console.WriteLine($"Your small album have: {NumberOfPages} pages.");
+        }
+    }
+
+    public class BigPhotoAlbum
+    {
+        public BigPhotoAlbum()
+        {
+            NumberOfPages = 64;
+        }
+
+        private int NumberOfPages;
+
+        public void GetNumbersOfPages()
+        {
+            Console.WriteLine($"Your Big album have: {NumberOfPages} pages.");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            PhotoAlbum defaultAlbum = new PhotoAlbum();
+            Console.Write("Deafult SMALL album > ");
+            defaultAlbum.GetNumbersOfPages();
+
+            PhotoAlbum customAlbum = new PhotoAlbum(24);
+            Console.Write("Custom SMALL album > ");
+            customAlbum.GetNumbersOfPages();
+
+            BigPhotoAlbum deafaultBigAlbum = new BigPhotoAlbum();
+            Console.Write("Deafult Big album > ");
+            deafaultBigAlbum.GetNumbersOfPages();
+        }
+    }
+}
+
+
