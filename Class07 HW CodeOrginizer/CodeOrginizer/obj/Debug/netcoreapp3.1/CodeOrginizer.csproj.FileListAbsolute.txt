@@ -1,0 +1,11 @@
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_07 CodeOrginizer\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.exe
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_07 CodeOrginizer\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.deps.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_07 CodeOrginizer\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.runtimeconfig.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_07 CodeOrginizer\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.runtimeconfig.dev.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_07 CodeOrginizer\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.dll
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_07 CodeOrginizer\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.pdb
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_07 CodeOrginizer\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.csprojAssemblyReference.cache
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_07 CodeOrginizer\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_07 CodeOrginizer\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.AssemblyInfo.cs
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_07 CodeOrginizer\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.dll
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_07 CodeOrginizer\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.pdb
