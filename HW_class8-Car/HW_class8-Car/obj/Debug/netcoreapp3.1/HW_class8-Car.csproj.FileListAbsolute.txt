@@ -1,0 +1,11 @@
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_8 Car\HW_class8-Car\HW_class8-Car\bin\Debug\netcoreapp3.1\HW_class8-Car.exe
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_8 Car\HW_class8-Car\HW_class8-Car\bin\Debug\netcoreapp3.1\HW_class8-Car.deps.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_8 Car\HW_class8-Car\HW_class8-Car\bin\Debug\netcoreapp3.1\HW_class8-Car.runtimeconfig.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_8 Car\HW_class8-Car\HW_class8-Car\bin\Debug\netcoreapp3.1\HW_class8-Car.runtimeconfig.dev.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_8 Car\HW_class8-Car\HW_class8-Car\bin\Debug\netcoreapp3.1\HW_class8-Car.dll
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_8 Car\HW_class8-Car\HW_class8-Car\bin\Debug\netcoreapp3.1\HW_class8-Car.pdb
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_8 Car\HW_class8-Car\HW_class8-Car\obj\Debug\netcoreapp3.1\HW_class8-Car.csprojAssemblyReference.cache
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_8 Car\HW_class8-Car\HW_class8-Car\obj\Debug\netcoreapp3.1\HW_class8-Car.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_8 Car\HW_class8-Car\HW_class8-Car\obj\Debug\netcoreapp3.1\HW_class8-Car.AssemblyInfo.cs
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_8 Car\HW_class8-Car\HW_class8-Car\obj\Debug\netcoreapp3.1\HW_class8-Car.dll
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_8 Car\HW_class8-Car\HW_class8-Car\obj\Debug\netcoreapp3.1\HW_class8-Car.pdb
