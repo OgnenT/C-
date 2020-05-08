@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "TeamSource/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TeamSource.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeamSource.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TeamSource/1.0.0": {
+      "type": "project",
+      "path": "../TeamSource/TeamSource.csproj",
+      "msbuildProject": "../TeamSource/TeamSource.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "TeamSource >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ognen\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\HW_09 Query syntax\\QuerySyntax\\QuerySyntax\\QuerySyntax.csproj",
-      "projectName": "QuerySyntax",
-      "projectPath": "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\HW_09 Query syntax\\QuerySyntax\\QuerySyntax\\QuerySyntax.csproj",
+      "projectUniqueName": "D:\\Ognen\\SEDC\\C#\\DOMASNI C#\\HW_10 LINQ_NBA\\GameCenter\\GameCenter.csproj",
+      "projectName": "GameCenter",
+      "projectPath": "D:\\Ognen\\SEDC\\C#\\DOMASNI C#\\HW_10 LINQ_NBA\\GameCenter\\GameCenter.csproj",
       "packagesPath": "C:\\Users\\Ognen\\.nuget\\packages\\",
-      "outputPath": "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\HW_09 Query syntax\\QuerySyntax\\QuerySyntax\\obj\\",
+      "outputPath": "D:\\Ognen\\SEDC\\C#\\DOMASNI C#\\HW_10 LINQ_NBA\\GameCenter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ognen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Ognen\\SEDC\\C#\\DOMASNI C#\\HW_10 LINQ_NBA\\TeamSource\\TeamSource.csproj": {
+              "projectPath": "D:\\Ognen\\SEDC\\C#\\DOMASNI C#\\HW_10 LINQ_NBA\\TeamSource\\TeamSource.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

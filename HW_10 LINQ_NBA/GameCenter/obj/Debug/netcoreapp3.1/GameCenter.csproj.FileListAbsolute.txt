@@ -1,0 +1,42 @@
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csprojAssemblyReference.cache
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.AssemblyInfo.cs
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.exe
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.deps.json
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.runtimeconfig.json
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.runtimeconfig.dev.json
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.dll
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.pdb
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\TeamSource.dll
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\TeamSource.pdb
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csproj.CopyComplete
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.dll
+D:\Ognen\SEDC\C#\Class13 online\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.pdb
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.exe
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.deps.json
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.runtimeconfig.json
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.runtimeconfig.dev.json
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.dll
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.pdb
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csprojAssemblyReference.cache
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.AssemblyInfoInputs.cache
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.AssemblyInfo.cs
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csproj.CopyComplete
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.dll
+C:\Users\Ognen\Desktop\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.pdb
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.exe
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.deps.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.runtimeconfig.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.runtimeconfig.dev.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.dll
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.pdb
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\bin\Debug\netcoreapp3.1\TeamSource.dll
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\bin\Debug\netcoreapp3.1\TeamSource.pdb
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csprojAssemblyReference.cache
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.AssemblyInfo.cs
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csproj.CopyComplete
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.dll
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_10 LINQ_NBA\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.pdb

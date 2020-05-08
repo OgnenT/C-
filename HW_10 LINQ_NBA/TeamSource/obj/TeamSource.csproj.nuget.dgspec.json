@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\HW_09 Query syntax\\QuerySyntax\\QuerySyntax\\QuerySyntax.csproj": {}
+    "D:\\Ognen\\SEDC\\C#\\DOMASNI C#\\HW_10 LINQ_NBA\\TeamSource\\TeamSource.csproj": {}
   },
   "projects": {
-    "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\HW_09 Query syntax\\QuerySyntax\\QuerySyntax\\QuerySyntax.csproj": {
+    "D:\\Ognen\\SEDC\\C#\\DOMASNI C#\\HW_10 LINQ_NBA\\TeamSource\\TeamSource.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\HW_09 Query syntax\\QuerySyntax\\QuerySyntax\\QuerySyntax.csproj",
-        "projectName": "QuerySyntax",
-        "projectPath": "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\HW_09 Query syntax\\QuerySyntax\\QuerySyntax\\QuerySyntax.csproj",
+        "projectUniqueName": "D:\\Ognen\\SEDC\\C#\\DOMASNI C#\\HW_10 LINQ_NBA\\TeamSource\\TeamSource.csproj",
+        "projectName": "TeamSource",
+        "projectPath": "D:\\Ognen\\SEDC\\C#\\DOMASNI C#\\HW_10 LINQ_NBA\\TeamSource\\TeamSource.csproj",
         "packagesPath": "C:\\Users\\Ognen\\.nuget\\packages\\",
-        "outputPath": "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\HW_09 Query syntax\\QuerySyntax\\QuerySyntax\\obj\\",
+        "outputPath": "D:\\Ognen\\SEDC\\C#\\DOMASNI C#\\HW_10 LINQ_NBA\\TeamSource\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ognen\\AppData\\Roaming\\NuGet\\NuGet.Config",
