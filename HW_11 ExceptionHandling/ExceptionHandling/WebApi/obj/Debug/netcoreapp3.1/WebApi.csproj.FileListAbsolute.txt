@@ -1,0 +1,16 @@
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb

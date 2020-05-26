@@ -1,0 +1,4 @@
+InvalidOperationException Sequence contains no matching element    at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at WebApi.Service.AdminService.GetAdminById(Int32 adminId) in D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\WebApi\Service\AdminService.cs:line 19
+   at FakeFacebook.Program.Main(String[] args) in D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\Program.cs:line 67

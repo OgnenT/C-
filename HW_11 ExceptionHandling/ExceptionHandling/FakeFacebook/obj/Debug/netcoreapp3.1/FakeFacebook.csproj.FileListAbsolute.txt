@@ -1,0 +1,28 @@
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.exe
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.deps.json
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.runtimeconfig.json
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.runtimeconfig.dev.json
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.dll
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.pdb
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csprojAssemblyReference.cache
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.AssemblyInfo.cs
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csproj.CopyComplete
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.dll
+D:\Ognen\SEDC\C#\skwd8-05-oopcsharp\g1\Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.pdb
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.exe
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.deps.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.runtimeconfig.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.runtimeconfig.dev.json
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.dll
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.pdb
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csprojAssemblyReference.cache
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.AssemblyInfo.cs
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csproj.CopyComplete
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.dll
+D:\Ognen\SEDC\C#\DOMASNI C#\HW_11 Exception\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.pdb
