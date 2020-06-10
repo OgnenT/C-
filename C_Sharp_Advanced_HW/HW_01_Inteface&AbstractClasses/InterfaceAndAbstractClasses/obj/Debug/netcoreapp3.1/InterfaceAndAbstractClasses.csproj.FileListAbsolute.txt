@@ -1,0 +1,22 @@
+C:\Users\Ognen\Desktop\ZRonl\programiranje\C# Advance\Interfeace & Abstract classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\bin\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.exe
+C:\Users\Ognen\Desktop\ZRonl\programiranje\C# Advance\Interfeace & Abstract classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\bin\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.deps.json
+C:\Users\Ognen\Desktop\ZRonl\programiranje\C# Advance\Interfeace & Abstract classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\bin\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.runtimeconfig.json
+C:\Users\Ognen\Desktop\ZRonl\programiranje\C# Advance\Interfeace & Abstract classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\bin\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.runtimeconfig.dev.json
+C:\Users\Ognen\Desktop\ZRonl\programiranje\C# Advance\Interfeace & Abstract classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\bin\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.dll
+C:\Users\Ognen\Desktop\ZRonl\programiranje\C# Advance\Interfeace & Abstract classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\bin\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.pdb
+C:\Users\Ognen\Desktop\ZRonl\programiranje\C# Advance\Interfeace & Abstract classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\obj\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.csprojAssemblyReference.cache
+C:\Users\Ognen\Desktop\ZRonl\programiranje\C# Advance\Interfeace & Abstract classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\obj\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.AssemblyInfoInputs.cache
+C:\Users\Ognen\Desktop\ZRonl\programiranje\C# Advance\Interfeace & Abstract classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\obj\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.AssemblyInfo.cs
+C:\Users\Ognen\Desktop\ZRonl\programiranje\C# Advance\Interfeace & Abstract classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\obj\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.dll
+C:\Users\Ognen\Desktop\ZRonl\programiranje\C# Advance\Interfeace & Abstract classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\obj\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.pdb
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\HW_01 Interface & Abstract Classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\bin\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.exe
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\HW_01 Interface & Abstract Classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\bin\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.deps.json
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\HW_01 Interface & Abstract Classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\bin\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.runtimeconfig.json
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\HW_01 Interface & Abstract Classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\bin\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.runtimeconfig.dev.json
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\HW_01 Interface & Abstract Classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\bin\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.dll
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\HW_01 Interface & Abstract Classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\bin\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.pdb
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\HW_01 Interface & Abstract Classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\obj\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.csprojAssemblyReference.cache
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\HW_01 Interface & Abstract Classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\obj\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\HW_01 Interface & Abstract Classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\obj\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.AssemblyInfo.cs
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\HW_01 Interface & Abstract Classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\obj\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.dll
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\HW_01 Interface & Abstract Classes\InterfaceAndAbstractClasses\InterfaceAndAbstractClasses\obj\Debug\netcoreapp3.1\InterfaceAndAbstractClasses.pdb
