@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ognen\\Desktop\\ZRonl\\programiranje\\C# Advance\\git simnat\\SEDC C# Advanced\\C-\\C_Sharp_Advanced_HW\\HW_01_Inteface&AbstractClasses\\InterfaceAndAbstractClasses\\InterfaceAndAbstractClasses.csproj",
-      "projectName": "InterfaceAndAbstractClasses",
-      "projectPath": "C:\\Users\\Ognen\\Desktop\\ZRonl\\programiranje\\C# Advance\\git simnat\\SEDC C# Advanced\\C-\\C_Sharp_Advanced_HW\\HW_01_Inteface&AbstractClasses\\InterfaceAndAbstractClasses\\InterfaceAndAbstractClasses.csproj",
+      "projectUniqueName": "C:\\Users\\Ognen\\Desktop\\ZRonl\\programiranje\\C# Advance\\git simnat\\SEDC C# Advanced\\C-\\C_Sharp_Advanced_HW\\HW_02_PetStore_GenericsExercise\\PetStore\\PetStore.csproj",
+      "projectName": "PetStore",
+      "projectPath": "C:\\Users\\Ognen\\Desktop\\ZRonl\\programiranje\\C# Advance\\git simnat\\SEDC C# Advanced\\C-\\C_Sharp_Advanced_HW\\HW_02_PetStore_GenericsExercise\\PetStore\\PetStore.csproj",
       "packagesPath": "C:\\Users\\Ognen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ognen\\Desktop\\ZRonl\\programiranje\\C# Advance\\git simnat\\SEDC C# Advanced\\C-\\C_Sharp_Advanced_HW\\HW_01_Inteface&AbstractClasses\\InterfaceAndAbstractClasses\\obj\\",
+      "outputPath": "C:\\Users\\Ognen\\Desktop\\ZRonl\\programiranje\\C# Advance\\git simnat\\SEDC C# Advanced\\C-\\C_Sharp_Advanced_HW\\HW_02_PetStore_GenericsExercise\\PetStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ognen\\AppData\\Roaming\\NuGet\\NuGet.Config",
