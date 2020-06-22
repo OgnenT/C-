@@ -1,0 +1,22 @@
+D:\Ognen\SEDC\C# Advance\VEZBI Ognen\Vezbi\Vezbi\bin\Debug\netcoreapp3.1\Vezbi.exe
+D:\Ognen\SEDC\C# Advance\VEZBI Ognen\Vezbi\Vezbi\bin\Debug\netcoreapp3.1\Vezbi.deps.json
+D:\Ognen\SEDC\C# Advance\VEZBI Ognen\Vezbi\Vezbi\bin\Debug\netcoreapp3.1\Vezbi.runtimeconfig.json
+D:\Ognen\SEDC\C# Advance\VEZBI Ognen\Vezbi\Vezbi\bin\Debug\netcoreapp3.1\Vezbi.runtimeconfig.dev.json
+D:\Ognen\SEDC\C# Advance\VEZBI Ognen\Vezbi\Vezbi\bin\Debug\netcoreapp3.1\Vezbi.dll
+D:\Ognen\SEDC\C# Advance\VEZBI Ognen\Vezbi\Vezbi\bin\Debug\netcoreapp3.1\Vezbi.pdb
+D:\Ognen\SEDC\C# Advance\VEZBI Ognen\Vezbi\Vezbi\obj\Debug\netcoreapp3.1\Vezbi.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\C# Advance\VEZBI Ognen\Vezbi\Vezbi\obj\Debug\netcoreapp3.1\Vezbi.AssemblyInfo.cs
+D:\Ognen\SEDC\C# Advance\VEZBI Ognen\Vezbi\Vezbi\obj\Debug\netcoreapp3.1\Vezbi.dll
+D:\Ognen\SEDC\C# Advance\VEZBI Ognen\Vezbi\Vezbi\obj\Debug\netcoreapp3.1\Vezbi.pdb
+D:\Ognen\SEDC\C# Advance\VEZBI Ognen\Vezbi\Vezbi\obj\Debug\netcoreapp3.1\Vezbi.csprojAssemblyReference.cache
+D:\Ognen\SEDC\C#\Domashni_Repo\C-\C_Sharp_Advanced_HW-all\Vezbi tourists\Vezbi\bin\Debug\netcoreapp3.1\Vezbi.exe
+D:\Ognen\SEDC\C#\Domashni_Repo\C-\C_Sharp_Advanced_HW-all\Vezbi tourists\Vezbi\bin\Debug\netcoreapp3.1\Vezbi.deps.json
+D:\Ognen\SEDC\C#\Domashni_Repo\C-\C_Sharp_Advanced_HW-all\Vezbi tourists\Vezbi\bin\Debug\netcoreapp3.1\Vezbi.runtimeconfig.json
+D:\Ognen\SEDC\C#\Domashni_Repo\C-\C_Sharp_Advanced_HW-all\Vezbi tourists\Vezbi\bin\Debug\netcoreapp3.1\Vezbi.runtimeconfig.dev.json
+D:\Ognen\SEDC\C#\Domashni_Repo\C-\C_Sharp_Advanced_HW-all\Vezbi tourists\Vezbi\bin\Debug\netcoreapp3.1\Vezbi.dll
+D:\Ognen\SEDC\C#\Domashni_Repo\C-\C_Sharp_Advanced_HW-all\Vezbi tourists\Vezbi\bin\Debug\netcoreapp3.1\Vezbi.pdb
+D:\Ognen\SEDC\C#\Domashni_Repo\C-\C_Sharp_Advanced_HW-all\Vezbi tourists\Vezbi\obj\Debug\netcoreapp3.1\Vezbi.csprojAssemblyReference.cache
+D:\Ognen\SEDC\C#\Domashni_Repo\C-\C_Sharp_Advanced_HW-all\Vezbi tourists\Vezbi\obj\Debug\netcoreapp3.1\Vezbi.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\C#\Domashni_Repo\C-\C_Sharp_Advanced_HW-all\Vezbi tourists\Vezbi\obj\Debug\netcoreapp3.1\Vezbi.AssemblyInfo.cs
+D:\Ognen\SEDC\C#\Domashni_Repo\C-\C_Sharp_Advanced_HW-all\Vezbi tourists\Vezbi\obj\Debug\netcoreapp3.1\Vezbi.dll
+D:\Ognen\SEDC\C#\Domashni_Repo\C-\C_Sharp_Advanced_HW-all\Vezbi tourists\Vezbi\obj\Debug\netcoreapp3.1\Vezbi.pdb

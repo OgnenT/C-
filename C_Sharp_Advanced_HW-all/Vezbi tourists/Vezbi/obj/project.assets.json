@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\C_Sharp_Advanced_HW-all\\HW_01_Inteface&AbstractClasses\\InterfaceAndAbstractClasses\\InterfaceAndAbstractClasses.csproj",
-      "projectName": "InterfaceAndAbstractClasses",
-      "projectPath": "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\C_Sharp_Advanced_HW-all\\HW_01_Inteface&AbstractClasses\\InterfaceAndAbstractClasses\\InterfaceAndAbstractClasses.csproj",
+      "projectUniqueName": "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\C_Sharp_Advanced_HW-all\\Vezbi tourists\\Vezbi\\Vezbi.csproj",
+      "projectName": "Vezbi",
+      "projectPath": "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\C_Sharp_Advanced_HW-all\\Vezbi tourists\\Vezbi\\Vezbi.csproj",
       "packagesPath": "C:\\Users\\Ognen\\.nuget\\packages\\",
-      "outputPath": "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\C_Sharp_Advanced_HW-all\\HW_01_Inteface&AbstractClasses\\InterfaceAndAbstractClasses\\obj\\",
+      "outputPath": "D:\\Ognen\\SEDC\\C#\\Domashni_Repo\\C-\\C_Sharp_Advanced_HW-all\\Vezbi tourists\\Vezbi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ognen\\AppData\\Roaming\\NuGet\\NuGet.Config",
