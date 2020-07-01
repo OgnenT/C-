@@ -1,0 +1,11 @@
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\FileSystem\ExerciseFileSystem\ExerciseFileSystem\bin\Debug\netcoreapp3.1\ExerciseFileSystem.exe
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\FileSystem\ExerciseFileSystem\ExerciseFileSystem\bin\Debug\netcoreapp3.1\ExerciseFileSystem.deps.json
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\FileSystem\ExerciseFileSystem\ExerciseFileSystem\bin\Debug\netcoreapp3.1\ExerciseFileSystem.runtimeconfig.json
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\FileSystem\ExerciseFileSystem\ExerciseFileSystem\bin\Debug\netcoreapp3.1\ExerciseFileSystem.runtimeconfig.dev.json
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\FileSystem\ExerciseFileSystem\ExerciseFileSystem\bin\Debug\netcoreapp3.1\ExerciseFileSystem.dll
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\FileSystem\ExerciseFileSystem\ExerciseFileSystem\bin\Debug\netcoreapp3.1\ExerciseFileSystem.pdb
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\FileSystem\ExerciseFileSystem\ExerciseFileSystem\obj\Debug\netcoreapp3.1\ExerciseFileSystem.csprojAssemblyReference.cache
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\FileSystem\ExerciseFileSystem\ExerciseFileSystem\obj\Debug\netcoreapp3.1\ExerciseFileSystem.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\FileSystem\ExerciseFileSystem\ExerciseFileSystem\obj\Debug\netcoreapp3.1\ExerciseFileSystem.AssemblyInfo.cs
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\FileSystem\ExerciseFileSystem\ExerciseFileSystem\obj\Debug\netcoreapp3.1\ExerciseFileSystem.dll
+D:\Ognen\SEDC\C# Advance\Domasni Advanced\FileSystem\ExerciseFileSystem\ExerciseFileSystem\obj\Debug\netcoreapp3.1\ExerciseFileSystem.pdb
